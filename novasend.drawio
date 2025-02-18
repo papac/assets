@@ -64,7 +64,7 @@
           <mxGeometry x="780" y="207" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dUggy9YAXrd2Rz0z9RZD-52" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.phone;" vertex="1" parent="1">
-          <mxGeometry x="190" y="345" width="77.88" height="132" as="geometry" />
+          <mxGeometry x="210" y="353.31" width="60" height="101.69" as="geometry" />
         </mxCell>
         <mxCell id="dUggy9YAXrd2Rz0z9RZD-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dUggy9YAXrd2Rz0z9RZD-53" target="dUggy9YAXrd2Rz0z9RZD-13">
           <mxGeometry relative="1" as="geometry" />
@@ -77,6 +77,12 @@
         </mxCell>
         <mxCell id="dUggy9YAXrd2Rz0z9RZD-55" value="AWS Elastic Beanstalk" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.elastic_beanstalk;" vertex="1" parent="1">
           <mxGeometry x="570" y="175" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dUggy9YAXrd2Rz0z9RZD-58" value="&lt;div&gt;Developers&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="130" width="120" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="dUggy9YAXrd2Rz0z9RZD-59" value="Clients" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="455" width="120" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
