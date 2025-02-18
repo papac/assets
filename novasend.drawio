@@ -84,6 +84,12 @@
         <mxCell id="dUggy9YAXrd2Rz0z9RZD-59" value="Clients" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="455" width="120" height="22" as="geometry" />
         </mxCell>
+        <mxCell id="dUggy9YAXrd2Rz0z9RZD-60" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.laptop;" vertex="1" parent="1">
+          <mxGeometry x="190" y="586.8" width="110" height="79.2" as="geometry" />
+        </mxCell>
+        <mxCell id="dUggy9YAXrd2Rz0z9RZD-62" value="API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="331.31" width="62" height="22" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
