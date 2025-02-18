@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dUggy9YAXrd2Rz0z9RZD-109" value="Generic group" style="fillColor=#EFF0F3;strokeColor=default;dashed=0;verticalAlign=top;fontStyle=0;fontColor=#232F3D;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="dUggy9YAXrd2Rz0z9RZD-109" value="" style="fillColor=#EFF0F3;strokeColor=default;dashed=0;verticalAlign=top;fontStyle=0;fontColor=#232F3D;whiteSpace=wrap;html=1;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="530" width="630" height="313" as="geometry" />
         </mxCell>
         <mxCell id="dUggy9YAXrd2Rz0z9RZD-44" value="&lt;div&gt;Repositories&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
